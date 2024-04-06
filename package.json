@@ -4,7 +4,7 @@
     "dotenv": "^16.4.5",
     "node-fetch": "^3.3.2"
   },
-  "name": "duckbot2.0",
+  "name": "duckbot",
   "version": "1.0.0",
   "description": "Duck cave bot",
   "main": "index.js",

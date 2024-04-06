@@ -1,6 +1,8 @@
 module.exports = { getDuckGif };
 
 // GetDuckGif through API of GIPHY
+
+// TODO: MAKE THE SEARCH ON THE GIF RANDOM
 async function getDuckGif() {
 	try {
 		const fetch = await import('node-fetch');
