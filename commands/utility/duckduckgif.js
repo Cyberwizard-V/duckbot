@@ -1,4 +1,4 @@
-const { SlashCommandBuilder } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 const { getDuckGif } = require('../../api/duckgif.js');
 
 module.exports = {
@@ -10,7 +10,17 @@ module.exports = {
 	async execute(interaction) {
 		try {
 			const gifUrl = await getDuckGif();
-			await interaction.reply(gifUrl);
+
+			console.log(gifUrl);
+
+			const embed = new EmbedBuilder()
+				.setColor('#0099ff')
+				.setTitle('🦆 ' + 'Duck gif')
+				.setImage(gifUrl)
+				.setTimestamp()
+				.setFooter({ text: 'Quackgif', iconURL: 'https://i.imgur.com/ryjpL39.png' });
+
+			await interaction.reply({ embeds: [embed] });
 		}
 		catch (error) {
 			console.error(error);
