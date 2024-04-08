@@ -12,7 +12,7 @@
 <h5 align="center">Duckbot made by @Cyberwizard-V</h5>
 <h5 align="center"><-------------------------------></h5>
 
-Developer: officialbmo
+Developer: officialbmo<br />
 Version: `v0.1`  
 
 feel free to contact me or @ me if you want a message to be added :) !!
