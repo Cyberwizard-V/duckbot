@@ -15,4 +15,4 @@
 Developer: officialbmo<br />
 Version: `v0.1`  
 
-feel free to contact me or @ me if you want a message to be added :) !!
+feel free to contact me!
