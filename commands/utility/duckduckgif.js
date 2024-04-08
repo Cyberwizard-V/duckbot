@@ -10,9 +10,6 @@ module.exports = {
 	async execute(interaction) {
 		try {
 			const gifUrl = await getDuckGif();
-
-			console.log(gifUrl);
-
 			const embed = new EmbedBuilder()
 				.setColor('#0099ff')
 				.setTitle('🦆 ' + 'Duck gif')
