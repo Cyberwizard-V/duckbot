@@ -22,7 +22,7 @@ module.exports = {
 			return;
 		}
 
-		const channelId = voiceChannel.id; // Retrieve the channel ID of the voice channel
+		const channelId = voiceChannel.id;
 
 		const voiceAdapterCreator = interaction.guild.voiceAdapterCreator;
 
@@ -57,7 +57,7 @@ module.exports = {
 				test.destroy();
 				console.log('Left voice channel.');
 			}
-		}, 3000); // 10 seconds
+		}, 3000);
 
 		await interaction.reply('QUACK!!');
 	},
