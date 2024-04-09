@@ -31,8 +31,6 @@ module.exports = {
 			return;
 		}
 
-		console.log(`Joining voice channel: ${voiceChannel.name} (${channelId})`);
-
 		const connection = joinVoiceChannel({
 			channelId: channelId,
 			guildId: guildId,
@@ -41,15 +39,17 @@ module.exports = {
 
 		const player = createAudioPlayer();
 
-		const audioResource = createAudioResource(createReadStream('quack.wav'), {
+		const audioResource = createAudioResource(createReadStream('quack.mp3'), {
 			inputType: StreamType.Arbitrary,
 		});
 
 		connection.subscribe(player);
 
-		await new Promise(resolve => setTimeout(resolve, 2000));
+		await new Promise(resolve => setTimeout(resolve, 1000));
 
 		player.play(audioResource);
+
+		console.log('Playing audio...');
 
 		setTimeout(() => {
 			const test = getVoiceConnection(guildId);
@@ -57,8 +57,8 @@ module.exports = {
 				test.destroy();
 				console.log('Left voice channel.');
 			}
-		}, 10000); // 10 seconds
+		}, 3000); // 10 seconds
 
-		await interaction.reply('QUACKKK!!!!');
+		await interaction.reply('QUACK!!');
 	},
 };
