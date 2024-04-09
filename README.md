@@ -13,6 +13,6 @@
 <h5 align="center"><-------------------------------></h5>
 
 Developer: officialbmo<br />
-Version: `v0.1`  
+Version: `v0.2`  
 
 feel free to contact me!
