@@ -15,12 +15,12 @@ module.exports = {
 				.setDescription('When you use the `/duckduckhelp` command, DuckBot responds with a list of available commands and their descriptions to assist you in using DuckBot effectively. Below is the structure of the commands:')
 				.setThumbnail('https://i.imgur.com/ryjpL39.png')
 				.addFields(
-					{ name: 'Command List', value: '**/duckduckgif** - Replies with a duck GIF\n**/duckduckquote** - Replies with a duck quote\n**/quack** - Replies with a QUACK (duh)' },
+					{ name: 'Command List', value: '**/duckduckgif** - Replies with a duck GIF\n**/duckduckquote** - Replies with a duck quote\n**/quack** - Replies with a QUACK (duh)\n**/duckduckvoice** - Joins the voice channel and QUACKS!!' },
 					{ name: '\u200B', value: '\u200B' },
 				)
 				.setImage('https://i.imgur.com/kpzEH6e.png')
 				.setTimestamp()
-				.setFooter({ text: 'Quack Commands', iconURL: 'https://i.imgur.com/ryjpL39.png' });
+				.setFooter({ text: 'Quack Commands | v0.2', iconURL: 'https://i.imgur.com/ryjpL39.png' });
 
 			await interaction.reply({ embeds: [embed] });
 		}
