@@ -1,7 +1,7 @@
 const { SlashCommandBuilder } = require('discord.js');
 const { getRandomInt } = require('../../shared/sharedfunctions.js');
 
-const quack = ['QUACK!', 'WHAT THE QUACK!', 'WHAT THE DUCK?!', 'Wassduck?', 'Ducky duck'];
+const quack = ['QUACK!', 'WHAT THE QUACK!', 'WHAT THE DUCK?!', 'Wassduck?', 'Ducky duck', 'quack....'];
 
 module.exports = {
 	data: new SlashCommandBuilder()
