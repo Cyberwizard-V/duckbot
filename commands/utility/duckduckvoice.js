@@ -50,6 +50,7 @@ module.exports = {
 		player.play(audioResource);
 
 		console.log('Playing audio...');
+		console.log('Triggered by: ' + interaction.member.user.username);
 
 		setTimeout(() => {
 			const test = getVoiceConnection(guildId);
