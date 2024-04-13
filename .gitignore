@@ -1,3 +1,33 @@
+#frontend
 node_modules
 .env
 config.json
+
+# .NET Core
+bin/
+obj/
+appsettings.json
+appsettings.Development.json
+
+# Entity Framework
+*_EFModelSnapshot.cs
+*_EFModelSnapshot.Designer.cs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Ll]og/
+[Ll]ogs/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
