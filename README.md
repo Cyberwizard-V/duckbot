@@ -16,3 +16,14 @@ Developer: officialbmo<br />
 Version: `v0.2`  
 
 feel free to contact me!
+
+
+<h2 align="center">App design</h2>
+<p align="center">
+  <img 
+    width="500"
+    height="500"
+    src="https://github.com/Cyberwizard-V/duckbot/assets/31287869/a8a8b5f1-3a27-41f6-92b8-1b4f82e3325b"
+  >
+</p>
+
