@@ -1,3 +1,5 @@
+// API TEST FILE
+
 async function getDatafromApi() {
 	try {
 		const fetch = await import('node-fetch');
