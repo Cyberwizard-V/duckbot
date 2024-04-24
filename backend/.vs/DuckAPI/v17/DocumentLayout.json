@@ -11,20 +11,40 @@
       "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\repository\\duckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\repository\\duckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\interfaces\\iducklore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\interfaces\\iducklore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\interfaces\\iduckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\interfaces\\iduckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\repository\\duckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\repository\\duckrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\models\\ducklore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\models\\ducklore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\dto\\duckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\dto\\duckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\models\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\models\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\duckapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\duckapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|c:\\users\\farhan\\documents\\duckbot2.0\\duckbot\\backend\\duckapi\\interfaces\\iducklore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E648DDF7-3574-4F69-9E2C-DC6FA3E4D863}|DuckAPI\\DuckAPI.csproj|solutionrelative:duckapi\\interfaces\\iducklore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,19 +54,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DuckController.cs",
-              "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Controllers\\DuckController.cs",
-              "RelativeDocumentMoniker": "DuckAPI\\Controllers\\DuckController.cs",
-              "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Controllers\\DuckController.cs",
-              "RelativeToolTip": "DuckAPI\\Controllers\\DuckController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T21:48:27.64Z",
+              "DocumentIndex": 9,
+              "Title": "DuckAPI",
+              "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\DuckAPI.csproj",
+              "RelativeDocumentMoniker": "DuckAPI\\DuckAPI.csproj",
+              "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\DuckAPI.csproj",
+              "RelativeToolTip": "DuckAPI\\DuckAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T21:53:02.549Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -57,7 +78,7 @@
               "RelativeDocumentMoniker": "DuckAPI\\Program.cs",
               "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Program.cs",
               "RelativeToolTip": "DuckAPI\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAIwBoAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T21:37:55.49Z",
               "EditorCaption": ""
@@ -65,19 +86,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "DuckAPI\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "DuckAPI\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:14:03.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "DuckAPI\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "DuckAPI\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:01:33.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ducklore.cs",
+              "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Models\\Ducklore.cs",
+              "RelativeDocumentMoniker": "DuckAPI\\Models\\Ducklore.cs",
+              "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Models\\Ducklore.cs",
+              "RelativeToolTip": "DuckAPI\\Models\\Ducklore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:54:28.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DuckDto.cs",
+              "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Dto\\DuckDto.cs",
+              "RelativeDocumentMoniker": "DuckAPI\\Dto\\DuckDto.cs",
+              "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Dto\\DuckDto.cs",
+              "RelativeToolTip": "DuckAPI\\Dto\\DuckDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:53:53.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDuckRepository.cs",
+              "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Interfaces\\IDuckRepository.cs",
+              "RelativeDocumentMoniker": "DuckAPI\\Interfaces\\IDuckRepository.cs",
+              "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Interfaces\\IDuckRepository.cs",
+              "RelativeToolTip": "DuckAPI\\Interfaces\\IDuckRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:40:11.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuckController.cs",
+              "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Controllers\\DuckController.cs",
+              "RelativeDocumentMoniker": "DuckAPI\\Controllers\\DuckController.cs",
+              "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Controllers\\DuckController.cs",
+              "RelativeToolTip": "DuckAPI\\Controllers\\DuckController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:48:27.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DuckRepository.cs",
               "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Repository\\DuckRepository.cs",
               "RelativeDocumentMoniker": "DuckAPI\\Repository\\DuckRepository.cs",
               "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Repository\\DuckRepository.cs",
               "RelativeToolTip": "DuckAPI\\Repository\\DuckRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvyUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T21:25:37.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "IDucklore.cs",
               "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Interfaces\\IDucklore.cs",
               "RelativeDocumentMoniker": "DuckAPI\\Interfaces\\IDucklore.cs",
@@ -90,26 +189,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDuckRepository.cs",
-              "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Interfaces\\IDuckRepository.cs",
-              "RelativeDocumentMoniker": "DuckAPI\\Interfaces\\IDuckRepository.cs",
-              "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Interfaces\\IDuckRepository.cs",
-              "RelativeToolTip": "DuckAPI\\Interfaces\\IDuckRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T21:21:28.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Duck.cs",
               "DocumentMoniker": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Models\\Duck.cs",
               "RelativeDocumentMoniker": "DuckAPI\\Models\\Duck.cs",
               "ToolTip": "C:\\Users\\farhan\\Documents\\Duckbot2.0\\duckbot\\backend\\DuckAPI\\Models\\Duck.cs",
               "RelativeToolTip": "DuckAPI\\Models\\Duck.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T21:19:36.165Z",
               "EditorCaption": ""
