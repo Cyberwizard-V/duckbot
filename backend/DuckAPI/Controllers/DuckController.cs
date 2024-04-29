@@ -31,21 +31,39 @@ namespace DuckAPI.Controllers
             return Ok(ducks);
         }
 
-        [HttpGet("{DuckID}")]
+        [HttpGet("id/{DuckID}")]
         [ProducesResponseType(200, Type = typeof(Duck))]
         [ProducesResponseType(400)]
         public IActionResult GetDuckByID(int DuckID)
         {
-
             if (!_duckRepository.DuckExists(DuckID))
                 return NotFound();
-            
+
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
             var duck = _mapper.Map<DuckDto>(_duckRepository.getDuckByID(DuckID));
 
             return Ok(duck);
+        }
+
+        //TODO:
+        [HttpGet("name/{DuckName}")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(400)]
+        public IActionResult GetDuckByName(string DuckName)
+        {
+            if (!_duckRepository.DuckExists(DuckName))
+                return NotFound();
+
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            List<Duck> ducks = _duckRepository.getDuckByName(DuckName);
+
+            List<DuckDto> duckDtos = ducks.Select(duck => _mapper.Map<DuckDto>(duck)).ToList();
+
+            return Ok(duckDtos);
         }
     }
 }
